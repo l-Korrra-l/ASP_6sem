@@ -1,0 +1,179 @@
+E:\Program Files\ASP\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.deps.json
+E:\Program Files\ASP\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.runtimeconfig.json
+E:\Program Files\ASP\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.runtimeconfig.dev.json
+E:\Program Files\ASP\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.dll
+E:\Program Files\ASP\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.pdb
+E:\Program Files\ASP\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.Views.dll
+E:\Program Files\ASP\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.Views.pdb
+E:\Program Files\ASP\ASP8\ASP8\bin\Debug\netcoreapp2.1\DLLEntity.dll
+E:\Program Files\ASP\ASP8\ASP8\bin\Debug\netcoreapp2.1\DLLEntity.pdb
+E:\Program Files\ASP\ASP8\ASP8\bin\Debug\netcoreapp2.1\DLLEntity.dll.config
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.csprojAssemblyReference.cache
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.csproj.CoreCompileInputs.cache
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorAssemblyInfo.cache
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorAssemblyInfo.cs
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.AssemblyInfoInputs.cache
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.AssemblyInfo.cs
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.TagHelpers.input.cache
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.TagHelpers.output.cache
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorCoreGenerate.cache
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Add.g.cshtml.cs
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.g.cshtml.cs
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Update.g.cshtml.cs
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorTargetAssemblyInfo.cache
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorTargetAssemblyInfo.cs
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.Views.pdb
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.csproj.CopyComplete
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.dll
+E:\Program Files\ASP\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.pdb
+D:\3\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.deps.json
+D:\3\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.runtimeconfig.json
+D:\3\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.runtimeconfig.dev.json
+D:\3\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.dll
+D:\3\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.pdb
+D:\3\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.Views.dll
+D:\3\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.Views.pdb
+D:\3\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\DLLEntity.dll
+D:\3\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\DLLEntity.pdb
+D:\3\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\DLLEntity.dll.config
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.csprojAssemblyReference.cache
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.csproj.CoreCompileInputs.cache
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorAssemblyInfo.cache
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorAssemblyInfo.cs
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.AssemblyInfoInputs.cache
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.AssemblyInfo.cs
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.TagHelpers.input.cache
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.TagHelpers.output.cache
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorCoreGenerate.cache
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Add.g.cshtml.cs
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.g.cshtml.cs
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Update.g.cshtml.cs
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorTargetAssemblyInfo.cache
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorTargetAssemblyInfo.cs
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.Views.pdb
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.csproj.CopyComplete
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.dll
+D:\3\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.pdb
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.deps.json
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.runtimeconfig.json
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.runtimeconfig.dev.json
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.pdb
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.Views.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.Views.pdb
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\DLLEntity.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\DLLEntity.pdb
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\DLLEntity.dll.config
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.csprojAssemblyReference.cache
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.csproj.CoreCompileInputs.cache
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorAssemblyInfo.cache
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorAssemblyInfo.cs
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.AssemblyInfoInputs.cache
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.AssemblyInfo.cs
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.TagHelpers.input.cache
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.TagHelpers.output.cache
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorCoreGenerate.cache
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Add.g.cshtml.cs
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.g.cshtml.cs
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Update.g.cshtml.cs
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorTargetAssemblyInfo.cache
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorTargetAssemblyInfo.cs
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.Views.pdb
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.csproj.CopyComplete
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.pdb
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.deps.json
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.runtimeconfig.json
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.runtimeconfig.dev.json
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.dll
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.pdb
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.Views.dll
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.Views.pdb
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\DLLEntity.dll
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\DLLEntity.pdb
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\bin\Debug\netcoreapp2.1\DLLEntity.dll.config
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.csprojAssemblyReference.cache
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.csproj.CoreCompileInputs.cache
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorAssemblyInfo.cache
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorAssemblyInfo.cs
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.AssemblyInfoInputs.cache
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.AssemblyInfo.cs
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.TagHelpers.input.cache
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.TagHelpers.output.cache
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorCoreGenerate.cache
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Add.g.cshtml.cs
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.g.cshtml.cs
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Update.g.cshtml.cs
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorTargetAssemblyInfo.cache
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorTargetAssemblyInfo.cs
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.Views.pdb
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.csproj.CopyComplete
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.dll
+D:\ЮЛЯ\ASP_8\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.pdb
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.deps.json
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.runtimeconfig.json
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.runtimeconfig.dev.json
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.pdb
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.Views.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\bin\Debug\netcoreapp2.1\ASP8.Views.pdb
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\bin\Debug\netcoreapp2.1\DLLEntity.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\bin\Debug\netcoreapp2.1\DLLEntity.pdb
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\bin\Debug\netcoreapp2.1\DLLEntity.dll.config
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.AssemblyInfo.cs
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorAssemblyInfo.cache
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorAssemblyInfo.cs
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.TagHelpers.input.cache
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.TagHelpers.output.cache
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorCoreGenerate.cache
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Add.cshtml.g.cs
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.cshtml.g.cs
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Update.cshtml.g.cs
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.RazorTargetAssemblyInfo.cs
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.Views.pdb
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.csproj.CopyComplete
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.pdb
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASP8\ASP8\obj\Debug\netcoreapp2.1\ASP8.genruntimeconfig.cache

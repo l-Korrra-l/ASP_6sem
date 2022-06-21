@@ -1,0 +1,40 @@
+﻿@using Lab2.Models;
+@{
+    Layout = null;
+    List<TelephoneBookRow> book = ViewBag.TelephoneBook;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" charset="utf-8"/>
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Surname</th>
+                    <th>Telephone Number</th>
+                </tr>
+            </thead>
+            @foreach(TelephoneBookRow row in book)
+            {
+                <tr>
+                    <td>@row.Id</td>
+                    <td>@row.Surname</td>
+                    <td>@row.TelephoneNumber</td>
+                </tr>
+            }
+        </table>
+    </div>
+
+
+    <h2> <a href="~/Dict/Add"> Add </a></h2>
+    <h2> <a href="~/Dict/Update"> Update </a></h2>
+    <h2> <a href="~/Dict/Delete"> Delete </a></h2>
+</body>
+</html>
